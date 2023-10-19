@@ -1,2 +1,3 @@
 # AI-phase1
-this is the first project in Naan Mudhalvan scheme phase 1
+ in this Naan Mudhalvan scheme, all phase  projects are here
+
