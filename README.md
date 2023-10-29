@@ -2,7 +2,7 @@
 EXECUTED USING,
   **JUPYTER NOTEBOOK, GOOGLE COLAB...
   DATASET: 
-  (TAKEN FOR THE KAGGLE)
+  (TAKEN FROM THE KAGGLE)
   LINK: https://www.kaggle.com/datasets/mathchi/diabetes-data-set
   BRIEF EXPLANATION:
  
